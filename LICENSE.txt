@@ -2,3 +2,4 @@ LICENSE
 硕大的
 新加的数据
 开启dev分支开发
+Creating a new branch is quick & simple.
