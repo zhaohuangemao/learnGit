@@ -4,3 +4,4 @@ Git is free software.
 
 正在工作。。
 修复完bug 继续工作
+模拟多人协作
