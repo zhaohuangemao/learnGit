@@ -9,3 +9,5 @@ Git is free software.
 
 模拟多人协作
 
+v1.1.0
+
